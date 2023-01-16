@@ -7,4 +7,6 @@ $dbName = "epiz_33231644_database";
 
 $con = mysqli_connect($server, $username, $password, $dbName) or die('Connection failed.');
 
+echo 'heello';
+
 ?>
